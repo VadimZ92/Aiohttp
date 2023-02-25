@@ -1,0 +1,6 @@
+aiohttp
+aiohttp[spedups]
+SQLAlchemy
+asyncpg
+pydantic
+typing
